@@ -1,0 +1,24 @@
+.chat-bar {
+	margin: 20px;
+	text-align: center;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+}
+
+.chat-bar input {
+	width: 100%;
+}
+.chat-messages {
+	margin: 20px;
+	height: 400px;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+}
+
+.chat-messages .messages {
+	position: relative; 
+	height: 400px;
+	bottom: 0px;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+}
